@@ -1,0 +1,38 @@
+body {
+    font-family: 'Times New Roman', serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: lightblue; 
+    color: white;
+    max-width: 800px;
+    margin: 0 auto;
+    background: radial-gradient(circle, lightblue,darkblue);
+}
+.first{
+    position: absolute;
+    top:40vw;
+    left:47vw; 
+    color: black; 
+}
+.second{
+    position: absolute; 
+    width: 40vw; 
+    top: 50vw; 
+    left: 37vw; 
+    color: black; 
+}
+.sigma{
+    position: absolute; 
+    width: 20vw;
+    height:22vw;
+    top: 25%;
+    left: 46%;
+    border: 2px solid white; 
+}
+h1 {
+    color: black;
+    padding-bottom: 10px;
+    position: relative;
+    left: 40vw; 
+}
